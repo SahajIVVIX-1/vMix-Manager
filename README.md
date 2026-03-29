@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📺 vMix Manager v7.0
+# 📺 vMix Manager
 ### Advanced Batch Automation & Lifecycle Management for vMix Productions
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
