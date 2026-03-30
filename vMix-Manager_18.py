@@ -4531,7 +4531,7 @@ from PyQt6.QtCore import Qt, pyqtSignal, QSize, QTimer, QObject, QThread, QMimeD
 from PyQt6.QtGui import QFont, QColor, QAction, QTextCursor, QKeySequence, QIcon, QPalette, QPixmap
 
 # ── Constants ──────────────────────────────────────────────────────────────────
-APP_NAME, APP_VERSION = "vMix Manager", "16"
+APP_NAME, APP_VERSION = "vMix Manager", "18"
 
 VIDEO_EXTS = {'.mp4','.avi','.mov','.mkv','.wmv','.flv','.m4v','.webm','.ts','.mts'}
 IMAGE_EXTS = {'.jpg','.jpeg','.png','.bmp','.gif','.tiff','.tga','.webp'}
