@@ -1,4 +1,4 @@
-# 📺 vMix Manager v16
+# 📺 vMix Manager
 ### Direct XML Production Engine & Batch Automation Suite
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-black.svg?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
