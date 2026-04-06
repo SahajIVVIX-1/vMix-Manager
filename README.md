@@ -95,7 +95,7 @@ Import structures from existing `.vmix` files or folder trees.
 To create a single-file executable for production machines:
 ```bash
 pip install pyinstaller
-pyinstaller --noconfirm --onefile --windowed --name "vMixManager" vMix-Manager.py
+pyinstaller --noconfirm --onefile --windowed --name "vMixManager" --icon=app_icon.ico vMix-Manager.py
 ```
 
 ---
